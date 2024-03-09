@@ -27,9 +27,10 @@ pillow
 
 - Clone this repository to your local machine
 
-    ```
-    git clone`<repository-url>`
+  ```
+  git clone `https://github.com/SP85691/Text_To_Image_Generator_Stable_Diffusion.git`
 
+  ```
 - Navigate to the project directory:
 
   ```
@@ -65,4 +66,4 @@ This will start the Streamlit server locally, and you can access the application
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on the GitHub repository.
 License
 
-#### This project is licensed under the `<a href="https://opensource.org/license/mit">`MIT License`</a>`.
+#### This project is licensed under the `<a href="https://opensource.org/license/mit">`MIT License `</a>`.
