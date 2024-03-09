@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+.env/
+env/
+venv/
+venv*/
+node_modules/
+jupyterlab-*
+
+# Virtual environments
+.env/
+.venv/
+env/
+ENV/
+
+# Ignore any logs or temp files
+logs/
+*.log
+*.tmp
+*.temp
+
+# Ignore generated images or any generated files
+Images/
+generated_image.png
+
+# Ignore Streamlit cache
+.streamlit/
